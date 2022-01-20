@@ -1,0 +1,31 @@
+/*Autor: Szymon Kałębasiak*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    color: brown;
+    background-color: #e9afaf;
+}
+div.menu_tlo {
+    width: 80%;
+    background: #c83737;
+    margin-top: 5%;
+}
+div.strona {
+    height: 15vh;
+    width: 80%;
+    background: #de8787;
+}
+div.stopka {
+    height: 9vh;
+    width: 80%;
+    background: #de8787;
+}
+div.menu_tlo.a {
+    float: left;
+}
+.strona1 {
+    padding-top: 4%;
+}
+.stopka1 {
+    padding-top: 2%;
+}
